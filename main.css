@@ -15,6 +15,9 @@
 .js-main {
   background-color: #ffcc00;
 }
+.js-main-impar {
+  background-color: #ff9900;
+}
 .main--title {
   margin: 50px;
   font-size: 6rem;
