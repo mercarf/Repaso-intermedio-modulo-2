@@ -1,6 +1,6 @@
 # Smile... or not
 
-![select-options](./info-readme/select-options.PNG)
+![happyShit](./info-readme/happyShit.PNG)
 
 ## Sonríe… o no (empezando con JS)
 
@@ -30,4 +30,5 @@ Gracias a la guía MDN vemos que existe la función Math.random() que nos retorn
 Esto es, desde el 0 (Incluido) hasta el 1 pero sin incluirlo (excluido).
 
 Nosotros hemos creado una función en la que le indicamos los parámetros para tener en cuenta el número máximo 100:
+
 ![randomNumber](./info-readme/randomNumber.PNG)
